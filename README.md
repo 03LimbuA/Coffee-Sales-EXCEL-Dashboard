@@ -1,6 +1,6 @@
 # Coffee-Sales-EXCEL-Dashboard
 
-This project, inspired by and following the tutorial of Youtube Channel [Mo Chen](https://www.youtube.com/watch?v=m13o5aqeCbM&list=PLxTPgq6AHJUtCI00djlzn60MBhwMc-sq-&index=9), aims to visualise and present data on Coffee Sales, through the use of Microsoft Excel. 
+This project, inspired by and following the tutorial of Youtube Channel [Mo Chen](https://www.youtube.com/@mo-chen), aims to visualise and present data on Coffee Sales, through the use of Microsoft Excel. 
 
 The dashboard is designed to be interactive, allowing viewers to engage with the timeline and slicers; viewers of the dashboard can explore how the coffee sales for the 4 different coffee types (Arabica, Excelsa, Liberica, Robusta) fluctuate over time, based on factors, such as:
 1. the type of roast
